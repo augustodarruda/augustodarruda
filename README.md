@@ -16,7 +16,7 @@ Statistics alumnus at [University of Campinas](https://www.unicamp.br/unicamp/).
 ### 📬 Get in Touch
 
 - GitHub: [github.com/augustodarruda][github]
-- LinkedIn: [https://linkedin.com/in/augustodarruda][linkedin]
+- LinkedIn: [linkedin.com/in/augustodarruda] [linkedin]
 - E-mail: augusto.darruda@gmail.com
 
 ### 📚 Looking for my Resume? E-Mail me!
