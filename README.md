@@ -1,6 +1,6 @@
 # Hello, I'm Augusto D'Arruda 👋
 
-![R](https://img.shields.io/badge/Python-Advanced-green)
+![R](https://img.shields.io/badge/R-Advanced-green)
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 
 Statistics alumnus at [University of Campinas(https://www.unicamp.br/unicamp/). Data Science enthusiast with passion for solving problems using data. Fascinated by everything that's Statistics related. Proudly from [São Paulo, Brazil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo)
