@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Augusto D'Arruda, I´m at my last semester in Statistics @ UNICAMP and currently working as a freelancer data analyst.
+
 <!--
 **augustodarruda/augustodarruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My skills:
+
+* Programming: R, Python, Mathematica and SQL
+* Data Analysis: Tidyverse package in R, NumPy and Pandas
+* Dashboards: PowerBI and Tableau
+* Machine Learning: Python and R
+* Languages: Native Portuguese and Fluent English
