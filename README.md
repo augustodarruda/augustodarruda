@@ -11,7 +11,7 @@ Statistics alumnus at [University of Campinas](https://www.unicamp.br/unicamp/).
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 - ⚙️ Mastering: `.py`, `.r`
 - 👯 I’m looking to collaborate on **Data Analysis** and/or **Machine Learning** projects
-- 💬 I'm mostly active within the **R**, **Data Visualization** communities
+- 💬 I'm mostly active within the **R** and **Statistical Reports** communities
 - 🎾 I love sports, but Tennis is my ultimate passion
 ### 📬 Get in Touch
 
