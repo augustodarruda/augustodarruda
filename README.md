@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Intermediate-yellow)
 
-Statistics alumnus at [University of Campinas](https://www.unicamp.br/unicamp/). Data Science enthusiast with passion for solving problems by visualization and models using data. Fascinated by everything that's Statistics related. Proudly from [São Paulo, Brazil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo)
+Statistics alumnus at [University of Campinas](https://www.unicamp.br/unicamp/). Data Science enthusiast with passion for solving problems and turning raw data into meaningful information by analysing patterns Fascinated by everything that's Statistics related. Proudly from [São Paulo, Brazil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo)
 
 - 🔭 Bachelor's degree in **Statistics** at UNICAMP
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
