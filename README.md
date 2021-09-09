@@ -1,27 +1,24 @@
-### Hi there 👋
+# Hello, I'm Augusto D'Arruda 👋
 
-I'm Augusto D'Arruda, I´m at my last semester in Statistics @ UNICAMP and currently working as a freelancer data analyst.
+![R](https://img.shields.io/badge/Python-Advanced-green)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 
-<!--
-**augustodarruda/augustodarruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Statistics alumnus at [University of Campinas(https://www.unicamp.br/unicamp/). Data Science enthusiast with passion for solving problems using data. Fascinated by everything that's Statistics related. Proudly from [São Paulo, Brazil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo)
 
-Here are some ideas to get you started:
+- 🔭 Bachelor's degree in **Statistics** at UNICAMP
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- ⚙️ Mastering: `.py`, `.r`
+- 👯 I’m looking to collaborate on **Data Analysis** and/or **Machine Learning** projects
+- 💬 I'm mostly active within the **R**, **Data Visualization** communities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Get in Touch
 
-My skills:
+- GitHub: [github.com/augustodarruda][github]
+- LinkedIn: [https://linkedin.com/in/augustodarruda][linkedin]
+- E-mail: augusto.darruda@gmail.com
 
-* Programming: R, Python, Mathematica and SQL
-* Data Analysis: Tidyverse package in R, NumPy and Pandas
-* Dashboards: PowerBI and Tableau
-* Machine Learning: Python and R
-* Languages: Native Portuguese and Fluent English
+### 📚 Looking for my Resume? E-Mail me!
 
+![Augusto D'Arruda's github stats](https://github-readme-stats.vercel.app/api?username=augustodarruda&show_icons=true&hide_border=true)
+
+[github]: https://github.com/augustodarruda
