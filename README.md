@@ -21,6 +21,7 @@ Statistics alumnus at [University of Campinas](https://www.unicamp.br/unicamp/).
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-![Augusto D'Arruda's github stats](https://github-readme-stats.vercel.app/api?username=augustodarruda&show_icons=true&hide_border=true)
+![Augusto D'Arruda's github stats](https://github-readme-stats.vercel.app/api?username=augustodarruda&show_icons=true&theme=synthwave)
+)
 
 [github]: https://github.com/augustodarruda
