@@ -23,10 +23,5 @@ Statistics alumnus at [University of Campinas](https://www.unicamp.br/unicamp/).
 
 ![Augusto D'Arruda's github stats](https://github-readme-stats.vercel.app/api?username=augustodarruda&show_icons=true&theme=synthwave)
 
-<div> 
-
-  ![Snake animation](https://github.com/augustodarruda/augustodarruda/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
 [github]: https://github.com/augustodarruda
